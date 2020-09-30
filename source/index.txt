@@ -9,6 +9,8 @@ MongoDB Connector for BI
 About the |bi|
 --------------
 
+`Some incorrect monospacing`
+
 .. include:: /includes/fact-bi-enterprise.rst
 
 The MongoDB Connector for Business Intelligence (BI) allows users to
