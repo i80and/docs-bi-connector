@@ -6,6 +6,12 @@ MongoDB Connector for BI
 
 .. default-domain:: mongodb
 
+.. program::
+
+.. deprecated::
+
+   some text
+
 About the |bi|
 --------------
 
