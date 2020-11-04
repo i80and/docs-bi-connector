@@ -7,3 +7,5 @@ the namespaces you wish to sample data from.
 For more details about MongoDB user permissions in |bi-short|, see
 :ref:`User Permissions for Cached Sampling
 <cached-sampling-user-permissions>`.
+
+:ref:`foobar`

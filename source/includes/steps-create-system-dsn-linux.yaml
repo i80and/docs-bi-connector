@@ -5,6 +5,8 @@ content: |
   The |odbc-driver-name| files are named ``libmdbodbca.so`` and
   ``libmdbodbcw.so``. After downloading the |odbc-driver-name|,
   move them to your ``/usr/local/lib`` directory.
+
+  :option:`test`
 ---
 title: Create an ``odbc.ini`` file
 ref: create-odbc-ini
