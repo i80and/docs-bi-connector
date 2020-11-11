@@ -11,6 +11,20 @@ About the |bi|
 
 .. include:: /includes/fact-bi-enterprise.rst
 
+  test blockquote
+
+.. raw:: html
+
+   <foobar>
+
+* :dotnet-sdk:`/foo`
+* :xamarin:`/foo`
+* :git-scm:`/foo`
+
+.. figure:: /images-bi-connector/odbc-manager.png
+
+.. figure:: /images/bi-connector/odbc-manager-2.png
+
 The MongoDB Connector for Business Intelligence (BI) allows users to
 create queries with |sql| and visualize, graph, and report on their
 MongoDB Enterprise data using existing relational business intelligence
