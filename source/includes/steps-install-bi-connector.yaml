@@ -2,7 +2,9 @@ title: Download the |bi|.
 ref: download-bi
 level: 4
 pre: |
-  Download the |bi-short| from the {+download-center+}.
+  {{download}} the |bi-short| from the {+download-center+}.
+replacement:
+  download: "Download"
 ---
 title: Generate your schema definition file. (Optional)
 ref: generate-schema

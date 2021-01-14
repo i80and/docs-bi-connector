@@ -4,6 +4,8 @@ level: 4
 source:
   file: steps-install-bi-connector.yaml
   ref: download-bi
+replacement:
+  download: "Download (overridden)"
 ---
 stepnum: 2
 title: Install the |bi|.
