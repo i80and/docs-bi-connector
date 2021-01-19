@@ -9,6 +9,16 @@ MongoDB Connector for BI
 About the |bi|
 --------------
 
+Definition List Term 1
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam quis velit at ipsum aliquam tincidunt vel sit amet mi. Cras non arcu sed dolor volutpat commodo eget a quam.
+
+  Donec id urna tincidunt, hendrerit tortor ut, tempus mauris. Vestibulum sit amet scelerisque nisi, lacinia luctus justo. Pellentesque tempus quam nec enim consequat, eu tempus tortor ultricies.  
+
+Definition List Term 2
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam quis velit at ipsum aliquam tincidunt vel sit amet mi. Cras non arcu sed dolor volutpat commodo eget a quam.
+
+  Donec id urna tincidunt, hendrerit tortor ut, tempus mauris. Vestibulum sit amet scelerisque nisi, lacinia luctus justo. Pellentesque tempus quam nec enim consequat, eu tempus tortor ultricies.  
+
 .. method:: db.collection.verb()
 
    A description.
